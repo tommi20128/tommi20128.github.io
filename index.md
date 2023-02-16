@@ -1,22 +1,20 @@
-# Moi! Tama on minun staattinen webbisivuSivu
-## Sivu on tehty käyttäen __markdown language syntaxia__
+# Moi! Tama on minun staattinen webbisivu
+## Sivu on tehty käyttäen markdown language syntaxia
 Olisi hienoa jos jontkut sanat voisi vain ~~pyyhkiä~~ eikä niitä enää tarvisi miettiä
-Asioita ei ole myöskään hyvä __paisutella__ tai **lihavoittaa**
-### 5 bändiä joita voisi kuunnella
+Asioita ei ole myöskään hyvä __paisutella__ tai **turvottaa**
+### 5 bändiä joita voisi kuunnella järjestyksessä
 1. Soilwork
 2. Amorphis
 3. Amaranthe
 4. Children of Bodom
 5. Oma valinta
 
-### 3 satunnaista elokuvaa
+### 3 elokuvaa jotai voisi katsoa satunnaisessa järjestyksessä
 - Matrix
 - Gladiator
 - Lord of the Rings
 
-Oletko miettinyt miltä näyttää *Naurava emoji* :question:
-Tällä sivulla ei naureta joten sitä ei täältä löydä :angry:
-Tässä sen sijaan kuva piirretystä kissasta
+Tähän ajattelin laittaa kuvan *piirretystä kissasta* &#x1F49B
 
 ![Kuva piirretystä kissasta](https://myoctocat.com/assets/images/base-octocat.svg)
 
