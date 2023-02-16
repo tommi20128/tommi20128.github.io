@@ -1,7 +1,7 @@
 # Moi! Tama on minun staattinen webbisivu
 ## Sivu on tehty käyttäen markdown language syntaxia
-Olisi hienoa jos jontkut sanat voisi vain ~~pyyhkiä~~ eikä niitä enää tarvisi miettiä
-Asioita ei ole myöskään hyvä __paisutella__ tai **turvottaa**
+Olisi hienoa jos jontkut sanat voisi vain ~~pyyhkiä~~ eikä niitä enää tarvisi miettiä.  
+Asioita ei ole myöskään hyvä __paisutella__ tai **turvottaa**.
 ### 5 bändiä joita voisi kuunnella järjestyksessä
 1. Soilwork
 2. Amorphis
@@ -14,7 +14,7 @@ Asioita ei ole myöskään hyvä __paisutella__ tai **turvottaa**
 - Gladiator
 - Lord of the Rings
 
-Tähän ajattelin laittaa kuvan *piirretystä kissasta* &#x1F49B
+Tähän ajattelin laittaa kuvan *piirretystä kissasta*.
 
 ![Kuva piirretystä kissasta](https://myoctocat.com/assets/images/base-octocat.svg)
 
